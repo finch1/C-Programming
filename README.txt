@@ -1,9 +1,3 @@
-Object Oriented ANSI C
-1. Qsys Timer peripheral blueprint created
-  a. Object Struct, function pointers, new instance function
-  b. timer.c timer.h
-2. DMA working example
-
-TODO:
-FIFO
-NCO
+6809asm - C assembler. Customizing a 6809 assembler (asm to hex) for VHDL 32 bit soft processor
+MineSw - C Minesweeper game. CLI Application
+my_work - C examples and tutorials from various sources
