@@ -1,1 +1,0 @@
-Autonomous path finding robot code. Written in C for Arduino. Drives 2 dc motors. Reads ultrasonic sensor, two infrared sensors and compass. 
