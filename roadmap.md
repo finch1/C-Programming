@@ -78,6 +78,15 @@ void msg_task(){
     Use different static code analyzers and perform tests. 
 
 # ROADMAP
+    https://www.youtube.com/watch?v=4OGMB4Fhh50&list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM
+    https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y
+    https://www.youtube.com/@CodeVault/playlists
+    https://www.youtube.com/@PortfolioCourses/playlists
+    https://www2.seas.gwu.edu/~simhaweb/C/modules/module3/module3.html
+    https://www.codequoi.com/en/malloc-allocating-memory-in-c/
+    https://www.codesdope.com/c-dynamic-memory/
+    https://www.youtube.com/watch?v=Vch7_YeGKH4
+    https://www.youtube.com/watch?v=xlt_bEqfnxg&list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP&index=22
 ## Basics		
 + how C compilers work
 + Macros and Preprocessors in C
@@ -150,6 +159,7 @@ void msg_task(){
     + incremental and decremental
     + conditional
     + ***bitwise
+        https://www.youtube.com/watch?v=ffPOA7UUDAs
     + special
 + precedence and associativity of operators
 + short circuit evaluation
@@ -254,9 +264,10 @@ void msg_task(){
 + Compound Literals in C
 
 ## Arrays & Strings
-+ Introduction to Arrays in C Language
 + Strings in C Language
+    https://stackoverflow.com/questions/15707732/what-does-array-means
 + Properties of the array in C Language
+    https://stackoverflow.com/questions/34844003/changing-array-inside-function-in-c
 + Do not use sizeof for array parameters
 + Initialization of variables sized arrays in C
 + Are array members deeply copied?
